@@ -6,6 +6,13 @@ TuneTalk is a social platform built for music lovers. Unlike typical music apps,
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Check out TuneTalk here][(https://tunetalk.vercel.app/](https://orange-moss-07783a600.1.azurestaticapps.net/))  
+
+---
+
+
 ## 🚀 Inspiration
 Most music apps focus only on listening. We wanted something that brings people together—an app where you can instantly share a song, discuss it with friends, or showcase your own singing. That’s how TuneTalk was born.
 
@@ -100,11 +107,18 @@ npm install
 npm start dev
 ```
 
+## 👩‍💻 Who Did What
+
+- **d0t-J** – Designed the **Home Page UI** and handled **Deployment**  
+- **Mariam Sawera** – Developed the **Chat Feature** and **Updated the Feed Page**  
+- **Fakeurs** – Built the **Playlist Generator Feature** and contributed to the **Feed Page**
+
+
 ## 👥 Contributors:
 
-1. <a href="https://github.com/MariamSawera">MariamSawera</a>
+1. <a href="https://github.com/MariamSawera">MariamSawera</a>  
 
-2. <a href="https://github.com/d0t-J">d0t-J</a>
+2. <a href="https://github.com/d0t-J">d0t-J</a>    
 
-3. <a href="https://github.com/Fakeurs">Fakeurs</a>
+3. <a href="https://github.com/Fakeurs">Fakeurs</a> 
 
