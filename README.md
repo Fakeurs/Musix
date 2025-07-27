@@ -12,6 +12,10 @@ TuneTalk is a social platform built for music lovers. Unlike typical music apps,
 
 ---
 
+## 🌟 Hackathon Track
+This project was built as part of the ✨ Make Anything, But Make it YOU (Beginner-Friendly Track) in the CS Girlies Hackathon 2025.
+We chose this track because we wanted to create something personal, fun, and meaningful that reflects our ideas and passion and this project truly felt like us!
+
 
 ## 🚀 Inspiration
 We didn’t just want to build another music app—we built something we truly wished existed. You know that feeling when you find a song so good, you just want to scream it into your group chat? We’ve been there.
