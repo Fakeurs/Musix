@@ -13,7 +13,7 @@ TuneTalk is a social platform built for music lovers. Unlike typical music apps,
 ---
 
 ## 🌟 Hackathon Track
-This project was built as part of the ✨ Make Anything, But Make it YOU (Beginner-Friendly Track) in the CS Girlies Hackathon 2025.
+This project was built as part of the **✨ Make Anything, But Make it YOU (Beginner-Friendly Track)** in the **CS Girlies Hackathon 2025**.
 We chose this track because we wanted to create something personal, fun, and meaningful that reflects our ideas and passion and this project truly felt like us!
 
 
@@ -121,11 +121,16 @@ npm start dev
 
 ## 👩‍💻 Who Did What
 
-- **d0t-J** – Designed the **Home Page UI** and handled **Deployment**  
-- **Mariam Sawera** – Developed the **Chat Feature** and **Updated the Feed Page**  
-- **Fakeurs** – Built the **Playlist Generator Feature** and contributed to the **Feed Page**
+### 👥 Collaborators
 
+- **d0t-J** – Designed the Entire **UI**, Added **Signup page** and handled **Deployment**  
+  → Took charge of building an engaging landing experience and deploying the full-stack app using **Azure** and **Vercel**.
 
+- **Mariam Sawera** – Developed the **Chat Feature** and updated the **Feed Page**  
+  → Implemented the **real-time chat** using **Socket.io** and integrated the **Spotify API** for song sharing in chat. Styled the chat UI with **CSS*, and helped in FeedPage.
+
+- **Fakeurs** – Built the **Playlist Generator Feature** and created the **Feed Page** from scratch  
+  → Used **Spotify’s Recommendation API** to generate playlists based on mood and prompts. Designed and developed the entire **Feed Page UI/UX**, ensuring seamless song and post sharing. 
 ## 👥 Contributors:
 
 1. <a href="https://github.com/MariamSawera">MariamSawera</a>  
