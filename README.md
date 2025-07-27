@@ -14,6 +14,8 @@ TuneTalk is a social platform built for music lovers. Unlike typical music apps,
 
 
 ## 🚀 Inspiration
+We didn’t just want to build another music app—we built something we truly wished existed. You know that feeling when you find a song so good, you just want to scream it into your group chat? We’ve been there.
+We really wanted a platform where you could listen to music and share it instantly with your friends, right there, in real time. But surprisingly, we couldn’t find anything that captured that vibe. No app truly let us combine music, chat, and expression in one space.
 Most music apps focus only on listening. We wanted something that brings people together—an app where you can instantly share a song, discuss it with friends, or showcase your own singing. That’s how TuneTalk was born.
 
 🎵 Features
@@ -87,6 +89,8 @@ Most music apps focus only on listening. We wanted something that brings people 
 6. Accessibility support
 
 7. UI/UX
+
+8. Voice sharing on feed 
 
 
 ## 📥 Getting Started
