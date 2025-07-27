@@ -65,8 +65,10 @@ Most music apps focus only on listening. We wanted something that brings people 
 3. Git workflow: managing branches, pull requests, and merges under pressure
 
 4. Balancing feature scope vs. time limitations
+
+5. Working in a team and collaboration
+
    
-5. Add Voice upload feature 
 
 ---
 
@@ -83,6 +85,8 @@ Most music apps focus only on listening. We wanted something that brings people 
 5. More streaming platform integrations
 
 6. Accessibility support
+
+7. UI/UX
 
 
 ## 📥 Getting Started
