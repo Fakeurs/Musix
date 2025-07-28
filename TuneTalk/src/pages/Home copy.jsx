@@ -7,7 +7,6 @@ export default function Home() {
         <div>
             <ProductHero />
             <ProductCTA />
-            {/* Add more sections here as needed */}
         </div>
     );
 }
